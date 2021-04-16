@@ -1,9 +1,8 @@
 /*
- * Created by Tomasz Kiljanczyk on 16/04/2021, 03:42
+ * Created by Tomasz Kiljanczyk on 16/04/2021, 09:10
  * Copyright (c) 2021 . All rights reserved.
- * Last modified 16/04/2021, 03:42
+ * Last modified 16/04/2021, 09:10
  */
-
 
 document.addEventListener('DOMContentLoaded', onContentLoaded, false);
 
