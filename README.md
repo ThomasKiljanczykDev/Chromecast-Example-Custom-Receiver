@@ -7,5 +7,5 @@ Please follow steps from [official Google Cast tutorial](https://developers.goog
 
 ## Stay in touch
 - Author - Tomasz Kiljańczyk
-- Mail - [asz.czyk.dev@gmail.com](mailto:asz.czyk.dev@gmail.com)
-- LinkedIn - [https://www.linkedin.com/in/tomasz-kilja%C5%84czyk-6b6ba3130](https://www.linkedin.com/in/tomasz-kilja%C5%84czyk-6b6ba3130)
+- Mail - [thomas.kiljanczyk.dev@gmail.com](mailto:thomas.kiljanczyk.dev@gmail.com)
+- LinkedIn - [https://www.linkedin.com/in/thomas-kiljanczyk-dev](https:/www.linkedin.com/in/thomas-kiljanczyk-dev)
